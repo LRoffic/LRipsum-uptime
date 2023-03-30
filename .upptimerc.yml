@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   theme: dark
   # cname: lripsum.net
-  baseUrl: /LRipsum/repo
+  baseUrl: /LRipsum
   name: LRoffic
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
