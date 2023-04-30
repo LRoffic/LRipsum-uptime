@@ -4,18 +4,20 @@
     "url": "https://lripsum.net",
     "icon": "https://icons.duckduckgo.com/ip3/lripsum.net.ico",
     "slug": "l-ripsum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 365,
-    "timeDay": 402,
-    "timeWeek": 591,
-    "timeMonth": 365,
-    "timeYear": 365,
-    "dailyMinutesDown": {}
+    "time": 381,
+    "timeDay": 663,
+    "timeWeek": 656,
+    "timeMonth": 381,
+    "timeYear": 381,
+    "dailyMinutesDown": {
+      "2023-04-30": 0
+    }
   },
   {
     "name": "Oxalt",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 677,
-    "timeWeek": 630,
-    "timeMonth": 614,
-    "timeYear": 614,
+    "time": 615,
+    "timeDay": 651,
+    "timeWeek": 653,
+    "timeMonth": 615,
+    "timeYear": 615,
     "dailyMinutesDown": {}
   }
 ]
