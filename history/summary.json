@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lripsum.net.ico",
     "slug": "l-ripsum",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "96.77%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.64%",
+    "uptimeMonth": "96.70%",
+    "uptimeYear": "96.77%",
     "time": 381,
-    "timeDay": 663,
-    "timeWeek": 656,
-    "timeMonth": 381,
+    "timeDay": 383,
+    "timeWeek": 674,
+    "timeMonth": 411,
     "timeYear": 381,
     "dailyMinutesDown": {
-      "2023-04-30": 9
+      "2023-05-01": 82,
+      "2023-04-30": 1365
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 651,
-    "timeWeek": 653,
-    "timeMonth": 615,
-    "timeYear": 615,
+    "time": 620,
+    "timeDay": 812,
+    "timeWeek": 695,
+    "timeMonth": 642,
+    "timeYear": 620,
     "dailyMinutesDown": {}
   }
 ]
