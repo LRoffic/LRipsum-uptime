@@ -4,18 +4,19 @@
     "url": "https://lripsum.net",
     "icon": "https://icons.duckduckgo.com/ip3/lripsum.net.ico",
     "slug": "l-ripsum",
-    "status": "up",
-    "uptime": "98.47%",
+    "status": "down",
+    "uptime": "98.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.47%",
+    "uptimeYear": "98.48%",
     "time": 341,
     "timeDay": 341,
     "timeWeek": 285,
     "timeMonth": 310,
     "timeYear": 341,
     "dailyMinutesDown": {
+      "2023-06-13": 0,
       "2023-05-01": 267,
       "2023-04-30": 1365
     }
