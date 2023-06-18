@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lripsum.net.ico",
     "slug": "l-ripsum",
     "status": "up",
-    "uptime": "98.55%",
+    "uptime": "98.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.55%",
-    "time": 338,
-    "timeDay": 216,
-    "timeWeek": 301,
+    "uptimeYear": "98.57%",
+    "time": 337,
+    "timeDay": 261,
+    "timeWeek": 292,
     "timeMonth": 299,
-    "timeYear": 338,
+    "timeYear": 337,
     "dailyMinutesDown": {
       "2023-05-01": 267,
       "2023-04-30": 1365
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 519,
-    "timeWeek": 606,
+    "time": 609,
+    "timeDay": 476,
+    "timeWeek": 590,
     "timeMonth": 596,
-    "timeYear": 611,
+    "timeYear": 609,
     "dailyMinutesDown": {}
   }
 ]
