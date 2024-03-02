@@ -14,6 +14,15 @@ status-website:
   theme: night
   # cname: lripsum.net
   baseUrl: /LRipsum
-  name: LRoffic
+  name: LRoffic | Uptime.js.org
+  logoUrl: https://lripsum.net/img/LR.jpg
+  favicon: https://lripsum.net/img/LR.jpg
+  navbar:
+    - title: LRipsum
+      href: https://lripsum.net
+    - title: Oxalt
+      href: https://oxalt.fr
+    - title: Github Repo
+      href: https://github.com/LRoffic/LRipsum
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
